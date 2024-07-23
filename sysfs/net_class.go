@@ -23,7 +23,7 @@ import (
 	"path/filepath"
 	"syscall"
 
-	"github.com/prometheus/procfs/internal/util"
+	"github.com/MrXinWang/procfs/internal/util"
 )
 
 const netclassPath = "class/net"
