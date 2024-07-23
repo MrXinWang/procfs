@@ -19,7 +19,7 @@ package sysfs
 import (
 	"path/filepath"
 
-	"github.com/prometheus/procfs/internal/util"
+	"github.com/MrXinWang/procfs/internal/util"
 )
 
 func readDRMCardField(card, field string) (string, error) {

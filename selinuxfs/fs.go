@@ -17,7 +17,7 @@
 package selinuxfs
 
 import (
-	"github.com/prometheus/procfs/internal/fs"
+	"github.com/MrXinWang/procfs/internal/fs"
 )
 
 // FS represents the pseudo-filesystem selinixfs, which provides an interface to

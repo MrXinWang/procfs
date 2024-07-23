@@ -20,7 +20,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/prometheus/procfs/internal/util"
+	"github.com/MrXinWang/procfs/internal/util"
 )
 
 // ClockSource contains metrics related to the clock source.

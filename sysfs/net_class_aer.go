@@ -22,7 +22,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/prometheus/procfs/internal/util"
+	"github.com/MrXinWang/procfs/internal/util"
 )
 
 // CorrectableAerCounters contains values from /sys/class/net/<iface>/device/aer_dev_correctable

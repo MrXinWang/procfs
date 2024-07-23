@@ -16,9 +16,8 @@ package util_test
 import (
 	"testing"
 
+	"github.com/MrXinWang/procfs/internal/util"
 	"github.com/google/go-cmp/cmp"
-
-	"github.com/prometheus/procfs/internal/util"
 )
 
 func TestValueParser(t *testing.T) {
